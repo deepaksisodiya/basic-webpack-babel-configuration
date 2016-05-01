@@ -1,4 +1,3 @@
 # basic-webpack-babel-configuration
 
-* This is a minimul required confifutation for webpack + babel
-* You can clone it and start using ES6 anytime with babel.
+* This repository has minimul required configuration for webpack and babel.
